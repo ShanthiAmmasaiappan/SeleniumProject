@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-10T17:39:18 EST" name="Default suite" finished-at="2022-12-10T17:39:24 EST" duration-ms="5461">
+    <groups>
+    </groups>
+    <test started-at="2022-12-10T17:39:18 EST" name="Default test" finished-at="2022-12-10T17:39:24 EST" duration-ms="5461">
+      <class name="com.Shanthi.learningSelenium.RegisterAccount">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Shanthi.learningSelenium.RegisterAccount@4a7f959b]" started-at="2022-12-10T17:39:18 EST" name="setUp" finished-at="2022-12-10T17:39:22 EST" duration-ms="4336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTest()[pri:0, instance:com.Shanthi.learningSelenium.RegisterAccount@4a7f959b]" started-at="2022-12-10T17:39:22 EST" name="verifyLoginTest" finished-at="2022-12-10T17:39:23 EST" duration-ms="969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Shanthi.learningSelenium.RegisterAccount@4a7f959b]" started-at="2022-12-10T17:39:23 EST" name="tearDown" finished-at="2022-12-10T17:39:24 EST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Shanthi.learningSelenium.RegisterAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
